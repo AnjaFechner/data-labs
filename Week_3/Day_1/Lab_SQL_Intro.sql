@@ -36,4 +36,4 @@ use sakila;
 #select count(s.store_id) as num_stores from store s
 
 # 6. Bonus: How many unique days did customers rent movies in this dataset?
-select count(distinct date(rental_date)) as date from rental r
+select count(distinct date(r.rental_date)) as date from rental r
