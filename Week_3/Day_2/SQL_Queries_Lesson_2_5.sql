@@ -17,7 +17,7 @@ SELECT floor(AVG(f.length)/60) as hours, floor(AVG(f.length)%60) as minutes FROM
 SELECT COUNT(DISTINCT a.last_name) as different_last_names FROM actor a;
 
 # 6.Since how many days has the company been operating (check the DATEDIFF() function)? Hint: rental table
-SELECT datediff(r.last_update, min(r.rental_date)) as operating_time FROM rental r;
+SELECT datediff(day, max(r.last_update), min(r.rental_date)) as operating_time FROM rental r;
 
 # 7. Show all rental information with additional columns month and weekday. (hint: DATE_FORMAT() ). Get 20 results.
 SELECT date_format(r.rental_date, "%M") AS month, date_format(r.rental_date, "%W") AS weekday FROM rental r;
