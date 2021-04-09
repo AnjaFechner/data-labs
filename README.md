@@ -41,8 +41,8 @@ For Week 1 one I solved the following Labs with jupyter notebook.
 <a name="Week_3"></a>
 #### 3. Week_3
 ***
-
-1. Day: I worked with the jupyter notebook [SQL_Queries_Lesson_2_5.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_5.sql) and [SQL_Queries_Lesson_2_6.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_6.sql).
+1. Day: I worked with the jupyter notebook [lab-intro-sql-master](https://github.com/AnjaFechner/data-labs/tree/main/Week_3/Day_1/lab-intro-sql-master).
+2. Day: I worked with the jupyter notebook [SQL_Queries_Lesson_2_5.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_5.sql) and [SQL_Queries_Lesson_2_6.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_6.sql).
 2. Day: The optional task is in the SQL file: [SQL_create_update_delete_Lesson_2_optional.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_create_update_delete_Lesson_2_optional.sql)
 3. Day: I worked with the jupyter notebook [Lab_SQL_Queries_7.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_3/Lab_SQL_Queries_7.sql) and [Lab_SQL_Queries_8.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_3/Lab_SQL_Queries_8.sql) .
 4. Day: I worked with the jupyter notebook [Lab_SQL_Joins_on_multiple_tables.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_4/Lab_SQL_Joins_on_multiple_tables.sql).
