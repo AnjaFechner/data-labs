@@ -14,9 +14,8 @@ The Repo is divided into wweks and the weeks are divided into days. But only the
 ## Table of Contents
 ***
 1. [Week_1](#Week_1) -> Labs from the Week 1
-2. [Week_2](#Week_2) -> Labs from the Week 1
-3. [Week_3](#Week_3) -> Labs from the Week 1
-4. [Week_4](#Week_4) -> Labs from the Week 1
+2. [Week_2](#Week_2) -> Labs from the Week 2
+3. [Week_3](#Week_3) -> Labs from the Week 3
 
 <a name="Week_1"></a>
 #### 1. Week_1
