@@ -7,13 +7,29 @@
 -- SELECT * FROM sakila.address
 -- SELECT * FROM sakila.store s
 
+
+#1.Version
 SELECT s.store_id, ci.city, c.country from sakila.country c
 JOIN sakila.city ci  
 ON c.country_id = ci.country_id
+
 JOIN sakila.address a
 ON ci.city_id = a.city_id
+
 JOIN sakila.store s
-ON a.address_id = s.address_id
+ON a.address_id = s.address_id;
+
+#2.Version
+SELECT s.store_id, ci.city, c.country from sakila.store s
+JOIN sakila.address a
+ON s.address_id = a.address_id
+
+JOIN sakila.city ci  
+ON a.city_id = ci.city_id
+
+JOIN sakila.country c 
+ON ci.country_id = c.country_id
+
 
 # 2. Display the total payment amount for each store.
 
@@ -73,6 +89,25 @@ ON r.rental_id = p.rental_id
 GROUP BY c.name
 ORDER BY revenue DESC
 LIMIT 5
+
+
+#Solution from the TA's
+SELECT
+	name            AS categoty,
+	SUM(amount)     AS `gross revenue`
+FROM sakila.payment
+	JOIN (sakila.rental
+		JOIN (sakila.inventory
+			JOIN (sakila.film_category
+				JOIN sakila.category USING (category_id))
+			USING (film_id))
+		USING (inventory_id))
+	USING (rental_id)
+GROUP BY category_id
+ORDER BY `gross revenue` DESC
+LIMIT 5;
+
+
 
 
 # 6.Is the Academy Dinosaur movie available for rent from Store 1? If yes, display the title, store_id and inventory_id of the available copies of that movie.

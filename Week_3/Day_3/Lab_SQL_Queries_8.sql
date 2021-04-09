@@ -53,3 +53,8 @@ ORDER BY num_rental DESC
 # Bonus. Which is the most rented film? The answer is Bucket Brotherhood This query might require using more than one join statement. 
 # Give it a try. We will talk about queries with multiple join statements later in the lessons.
 
+SELECT * FROM sakila.rental r
+SELECT * FROM sakila.film f
+SELECT * FROM sakila.inventory i
+
+
