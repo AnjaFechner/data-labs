@@ -18,15 +18,17 @@ The Repo is divided into wweks and the weeks are divided into days. But only the
 ### 1. Week_1
 ***
 
+For Week 1 
+
 <a name="Week_2"></a>
-###2. [Week_2](#Week_2)
+### 2. [Week_2](#Week_2)
 ***
 
 <a name="Week_3"></a>
-3. [Week_3](#Week_3)
+### 3. [Week_3](#Week_3)
 ***
 
 <a name="Week_4"></a>
-4. [Week_4](#Week_4)
+### 4. [Week_4](#Week_4)
 ***
 
