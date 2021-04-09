@@ -31,7 +31,7 @@ Day 4: I worked with the jupyter notebook [customer_analysis_round_4.ipynb](http
 marketing_customer_analysis.csv.
 
 <a name="Week_2"></a>
-#### 2. [Week_2](#Week_2)
+#### 2. Week_2
 ***
 
 For Week 1 one I solved the following Labs with jupyter notebook.
@@ -39,7 +39,7 @@ For Week 1 one I solved the following Labs with jupyter notebook.
 Day 5: I worked with the jupyter notebook [Lab_Predicting_Claim_Amount_with_ML_Linear_Regression.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_2/Day_5/Lab_Predicting_Claim_Amount_with_ML_Linear_Regression.ipynb).
 
 <a name="Week_3"></a>
-#### 3. [Week_3](#Week_3)
+#### 3. Week_3
 ***
 
 Day 1: I worked with the SQL file [Lab_SQL_Intro.sql](https://github.com/AnjaFechner/data-labs/tree/main/Week_1/Day_2/https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_1/Lab_SQL_Intro.sql).
