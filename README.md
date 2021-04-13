@@ -16,13 +16,14 @@ The Repo is divided into wweks and the weeks are divided into days. But only the
 1. [Week_1](#Week_1) -> Labs from the Week 1
 2. [Week_2](#Week_2) -> Labs from the Week 2
 3. [Week_3](#Week_3) -> Labs from the Week 3
+3. [Week_4](#Week_4) -> Labs from the Week 4
 
 <a name="Week_1"></a>
 #### 1. Week_1
 ***
 For Week 1 one I solved the following Labs with jupyter notebook.
 
-2. Day: I worked with the jupyter notebook [day_2_lab-checkpoint.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_1/Day_2/.ipynb_checkpoints/day_2_lab-checkpoint.ipynb).
+2. Day: I worked with the jupyter notebook [day_2_lab.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_1/Day_2/day_2_lab.ipynb).
 3. Day: I worked with the jupyter notebook [customer_analysis_round_2.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_1/Day_3/customer_analysis_round_2.ipynb) and the csv-file
 marketing_customer_analysis.csv.
 4. Day: I worked with the jupyter notebook [customer_analysis_round_3.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_1/Day_4/customer_analysis_round_3.ipynb) and the csv-file
@@ -41,11 +42,16 @@ For Week 1 one I solved the following Labs with jupyter notebook.
 <a name="Week_3"></a>
 #### 3. Week_3
 ***
-1. Day: I worked with the jupyter notebook [lab-intro-sql-master](https://github.com/AnjaFechner/data-labs/tree/main/Week_3/Day_1/lab-intro-sql-master).
-2. Day: I worked with the jupyter notebook [SQL_Queries_Lesson_2_5.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_5.sql) and [SQL_Queries_Lesson_2_6.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_6.sql).
+1. Day: I worked with the sql-file [lab-intro-sql-master.sql](https://github.com/AnjaFechner/data-labs/tree/main/Week_3/Day_1/lab-intro-sql-master).
+2. Day: I worked with the sql-file [SQL_Queries_Lesson_2_5.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_5.sql) and [SQL_Queries_Lesson_2_6.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_Queries_Lesson_2_6.sql).
 2. Day: The optional task is in the SQL file: [SQL_create_update_delete_Lesson_2_optional.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_2/SQL_create_update_delete_Lesson_2_optional.sql)
-3. Day: I worked with the jupyter notebook [Lab_SQL_Queries_7.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_3/Lab_SQL_Queries_7.sql) and [Lab_SQL_Queries_8.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_3/Lab_SQL_Queries_8.sql) .
-4. Day: I worked with the jupyter notebook [Lab_SQL_Joins_on_multiple_tables.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_4/Lab_SQL_Joins_on_multiple_tables.sql).
+3. Day: I worked with the sql-file [Lab_SQL_Queries_7.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_3/Lab_SQL_Queries_7.sql) and [Lab_SQL_Queries_8.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_3/Lab_SQL_Queries_8.sql) .
+4. Day: I worked with the sql-file [Lab_SQL_Joins_on_multiple_tables.sql](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_4/Lab_SQL_Joins_on_multiple_tables.sql).
 5. Day: I worked with the jupyter notebook [sqlpy-sakila_or_harry.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_3/Day_5/sqlpy-sakila_or_harry.ipynb). Please look into the separate read.me in the folder Day 5.
 
+
+<a name="Week_4"></a>
+#### 4. Week_4
 ***
+
+2. Day: I worked with the jupyter notebook [Regression_Analysis.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_2/Regression_Analysis.ipynb).
