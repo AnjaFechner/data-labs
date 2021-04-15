@@ -56,3 +56,4 @@ For Week 1 one I solved the following Labs with jupyter notebook.
 
 - Day 2: I worked with the jupyter notebook [Regression_Analysis.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_2/Regression_Analysis.ipynb).
 - Day 3: I worked with the jupyter notebook [Lab_Data_cleaning_and_wrangling.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_3/Lab_Data_cleaning_and_wrangling.ipynb).
+- Day 4: I worked with the jupyter notebook [tutorial-pandas-concat-merge-join.ipynb)](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_4/tutorial-pandas-concat-merge-join.ipynb) and [main.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_4/main.ipynb)
