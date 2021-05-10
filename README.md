@@ -16,7 +16,8 @@ The Repo is divided into wweks and the weeks are divided into days. But only the
 1. [Week_1](#Week_1) -> Labs from the Week 1
 2. [Week_2](#Week_2) -> Labs from the Week 2
 3. [Week_3](#Week_3) -> Labs from the Week 3
-3. [Week_4](#Week_4) -> Labs from the Week 4
+4. [Week_4](#Week_4) -> Labs from the Week 4
+5. [Week_8](#Week_8) -> Labs from the Week 8
 
 <a name="Week_1"></a>
 #### 1. Week_1
@@ -58,3 +59,9 @@ For Week 1 one I solved the following Labs with jupyter notebook.
 - Day 3: I worked with the jupyter notebook [Lab_Data_cleaning_and_wrangling.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_3/Lab_Data_cleaning_and_wrangling.ipynb).
 - Day 4: I worked with the jupyter notebook [tutorial-pandas-concat-merge-join.ipynb)](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_4/tutorial-pandas-concat-merge-join.ipynb) and [main.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_4/main.ipynb)
 - Day 5: I worked with the jupyter notebook [Random_Variable_Distributions.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_4/Day_5/Random_Variable_Distributions.ipynb).
+
+<a name="Week_8"></a>
+#### 5. Week_8
+***
+
+- Day 1: I worked with the jupyter notebook [NLP.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_8/Day_1/NLP.ipynb).
