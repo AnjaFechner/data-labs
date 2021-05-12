@@ -66,3 +66,4 @@ For Week 1 one I solved the following Labs with jupyter notebook.
 
 - Day 1: I worked with the jupyter notebook [NLP.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_8/Day_1/NLP.ipynb).
 - Day 2: I worked with the jupyter notebook [Lab_Day_2.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_8/Day_2/Lab_Day_2.ipynb).
+- Day 3: I worked with the jupyter notebook [notebook_cookies_random_forest_model.ipynb](https://github.com/AnjaFechner/data-labs/blob/main/Week_8/Day_3/notebook_cookies_random_forest_model.ipynb).
